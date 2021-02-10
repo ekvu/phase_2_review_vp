@@ -5,3 +5,7 @@ student_first_names = [
 "Ozair","Paul","Prabhakar",
 "Reuben",
 "Sam","Sindhu","William"]
+
+quanggang = ['Christos','Jamie', 'Marcos',
+	    'Rachel','Svitlana'
+	   ] 
