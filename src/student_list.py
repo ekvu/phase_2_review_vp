@@ -1,11 +1,2 @@
-student_first_names = [
-"Ali","Andrew","Angie","Elena",
-"Hunter","Jeffrey","Jonathan",
-"Josh","Karim","Matthew",
-"Ozair","Paul","Prabhakar",
-"Reuben",
-"Sam","Sindhu","William"]
-
-quanggang = ['Christos','Jamie', 'Marcos',
-	    'Rachel','Svitlana'
-	   ] 
+vaccinated_pandas = ["Ramil","Victor","Aaron","Kyle","George",
+              "Bradly","Brian","Kevin","Ryan", "Erin"]
